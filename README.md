@@ -16,6 +16,10 @@ On every booths, the organizer need to put the QR Code for attendace to scan it 
 
 Since the apps size is really small (below 3MB) and the last value or user specific values is saved locally in shared preferences, users can easily fill up attendace form without rewriting it again.
 
+## Video Demo
+
+https://www.youtube.com/embed/c-kENwEqzFY
+
 
 NOTE: This project is open source project, you can fort it for your own event organier/community organizer.
 feel free to ask me on telegram if you find it hard to implements for rour own organization. 
