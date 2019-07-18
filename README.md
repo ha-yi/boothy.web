@@ -30,10 +30,14 @@ t.me/hayinukman
 ## Demo 
 
 Web: http://boothy.dokterkode.com
+
 user: a@b.c
+
 pass: 12345678
 
+
 mobile: https://play.google.com/store/apps/details?id=com.dr.kode.boothy
+
 don't forget to enable your Instant app in Google Play app settings.
 
 ## ---
