@@ -45,4 +45,4 @@ don't forget to enable your Instant app in Google Play app settings.
 If you think this project is helpful, kindly click star button.
 If you found bugs, or any improvement or feature request, please create new Issue.
 
-<a href="https://www.buymeacoffee.com/32kjBs9" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/hayi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee"></a>
